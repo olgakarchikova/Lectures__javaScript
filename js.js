@@ -38,17 +38,17 @@
 // console.log(num);
 
 // Создать 2 переменные, записать Имя и Фамилию, вывести через консоль.
-const userName = 'Ольга';
-const surname = 'Карчикова';
-// console.log(`${userName} ${surname}`);
-console.log(userName+ ', '+surname + '!');
+// const userName = 'Ольга';
+// const surname = 'Карчикова';
+// // console.log(`${userName} ${surname}`);
+// console.log(userName+ ', '+surname + '!');
 
-// Создать 2 переменные, записать текст, вывести через консоль.
-const txt = 'Java',
-    tekst =  'script';
-console.log(`${txt} ${tekst}`);
+// // Создать 2 переменные, записать текст, вывести через консоль.
+// const txt = 'Java',
+//     tekst =  'script';
+// console.log(`${txt} ${tekst}`);
 
-const a = 'hello',
-    b = 'world';
-// console.log(`${a} ${b}`);
-console.log(a+', '+b + '!');
+// const a = 'hello',
+//     b = 'world';
+// // console.log(`${a} ${b}`);
+// console.log(a+', '+b + '!');
